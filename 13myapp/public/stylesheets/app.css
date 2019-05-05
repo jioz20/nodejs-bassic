@@ -1,0 +1,32 @@
+*{
+    margin: 0; padding: 0;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 100%;
+}
+
+#vienNgoai{
+    text-align: center;
+    
+    height: 200px;
+    border: 1px solid #0f0;
+    margin: 5px;
+    padding-top: 50px;
+}
+
+#vienNgoai .trong span {
+    margin: 5px;
+}
+#vienNgoai .trong input{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+button{
+    margin: 10px;
+    padding: 5px;
+}
